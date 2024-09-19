@@ -43,5 +43,5 @@ jobs:
     - name: Upload localization package
       uses: actions/upload-artifact@v3
       with:
-        name: localization-package
+        name: kde-el
         path: $HOME/artifacts/localization-package.tar.gz
