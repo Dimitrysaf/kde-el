@@ -21,22 +21,30 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y gettext build-essential
 
-    - name: List files in repository
+    - name: List files at root level
       run: |
         echo "Listing files at root level:"
         ls -la
+
+    - name: List files in messages directory
+      run: |
         echo "Listing files in messages directory:"
-        ls -la messages
+        ls -la messages || echo "No messages directory found."
 
     - name: Compile translations
       run: |
         mkdir -p build
         cd messages
-        for po_file in *.po; do
-          echo "Processing $po_file"
-          mo_file="../build/$(basename "$po_file" .po).mo"
-          msgfmt "$po_file" -o "$mo_file"
-        done
+        if ls *.po 1> /dev/null 2>&1; then
+          for po_file in *.po; do
+            echo "Processing $po_file"
+            mo_file="../build/$(basename "$po_file" .po).mo"
+            msgfmt "$po_file" -o "$mo_file"
+          done
+        else
+          echo "No .po files found in messages directory."
+          exit 1
+        fi
 
     - name: Package localization
       run: |
