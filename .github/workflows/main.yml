@@ -35,13 +35,13 @@ jobs:
       run: |
         # Replace with the path to your build script or packaging command
         cd build
-        tar -czf localization-package.tar.gz *.mo
+        tar -czf kde-el.tar.gz *.mo
         # Optionally, upload the package as an artifact
         mkdir -p $HOME/artifacts
-        mv localization-package.tar.gz $HOME/artifacts/
+        mv kde-el.tar.gz $HOME/artifacts/
       
     - name: Upload localization package
       uses: actions/upload-artifact@v3
       with:
         name: kde-el
-        path: $HOME/artifacts/localization-package.tar.gz
+        path: $HOME/artifacts/kde-el.tar.gz
