@@ -21,27 +21,32 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y gettext build-essential
 
+    - name: List files in repository
+      run: |
+        echo "Listing files at root level:"
+        ls -la
+        echo "Listing files in messages directory:"
+        ls -la messages
+
     - name: Compile translations
       run: |
-        # Replace with the path to your messages folder and build script
         mkdir -p build
         cd messages
         for po_file in *.po; do
+          echo "Processing $po_file"
           mo_file="../build/$(basename "$po_file" .po).mo"
           msgfmt "$po_file" -o "$mo_file"
         done
 
     - name: Package localization
       run: |
-        # Replace with the path to your build script or packaging command
         cd build
-        tar -czf kde-el.tar.gz *.mo
-        # Optionally, upload the package as an artifact
+        tar -czf localization-package.tar.gz *.mo
         mkdir -p $HOME/artifacts
-        mv kde-el.tar.gz $HOME/artifacts/
+        mv localization-package.tar.gz $HOME/artifacts/
       
     - name: Upload localization package
       uses: actions/upload-artifact@v3
       with:
-        name: kde-el
-        path: $HOME/artifacts/kde-el.tar.gz
+        name: localization-package
+        path: $HOME/artifacts/localization-package.tar.gz
