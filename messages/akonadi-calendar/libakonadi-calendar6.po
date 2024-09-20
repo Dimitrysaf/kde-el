@@ -21,12 +21,29 @@
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 Δημήτρης Μηλιάτης <demetresmeliates+i18n@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: akonadi-calendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-01 00:41+0000\n"
-"PO-Revision-Date: 2024-09-19 21:03+0300\n"
+"PO-Revision-Date: 2024-09-20 18:10+0300\n"
 "Last-Translator: Δημήτρης Μηλιάτης <demetresmeliates+i18n@gmail.com>\n"
 "Language-Team: Greek <kde-i18n-doc@kde.org>\n"
 "Language: en_US\n"
@@ -281,12 +298,16 @@ msgstr "Απόκρυψη απορριπτόμενων προσκλήσεων"
 #, kde-format
 msgid "Check this box to hide declined invitations in event views."
 msgstr ""
+"Ενεργοποιήστε αυτό το πλαίσιο για να αποκρύψετε τις απορριφθείσες "
+"προσκλήσεις στις προβολές εκδηλώσεων."
 
 #. i18n: ectx: label, entry, group (Reminders)
 #: calendarsettings.kcfg:91
 #, kde-format
 msgid "Only show reminders for events I organize or attend"
 msgstr ""
+"Εμφάνιση υπενθυμίσεων μόνο για εκδηλώσεις που οργανώνω ή "
+"παρακολουθώ"
 
 #. i18n: ectx: whatsthis, entry, group (Reminders)
 #: calendarsettings.kcfg:92
@@ -295,18 +316,22 @@ msgid ""
 "Check this to only receive reminders for events that you are the organizer "
 "of or that you are attending."
 msgstr ""
+"Ενεργοποιήστε αυτό το πεδίο για να λαμβάνετε υπενθυμίσεις μόνο για "
+"εκδηλώσεις που διοργανώνετε ή στις οποίες συμμετέχετε."
 
 #. i18n: ectx: label, entry (OutlookCompatCounterProposals), group (Hidden Options)
 #: calendarsettings.kcfg:100
 #, kde-format
 msgid "Send Outlook-like pseudo counter proposals"
-msgstr ""
+msgstr "Αποστολή προτάσεων ψευδομετρητών που μοιάζουν με το Outlook"
 
 #. i18n: ectx: label, entry (FreeBusyCheckHostname), group (Hidden Options)
 #: calendarsettings.kcfg:105
 #, kde-format
 msgid "Check whether hostname and retrieval email address match"
 msgstr ""
+"Ελέγξτε αν το όνομα κεντρικού υπολογιστή και το email ανάκτησης "
+"ταιριάζουν"
 
 #. i18n: ectx: whatsthis, entry (FreeBusyCheckHostname), group (Hidden Options)
 #: calendarsettings.kcfg:106
@@ -317,92 +342,96 @@ msgid ""
 "example, if this option is set, then looking for the free/busy data of "
 "joe@mydomain.com on the server www.yourdomain.com will fail."
 msgstr ""
+"Με αυτή τη ρύθμιση μπορείτε να ρυθμίσετε αν το τμήμα τομέα της "
+"διεύθυνσης URL διαθεσιμότητας πρέπει να ταιριάζει με το τμήμα τομέα του "
+"ID χρήστη που αναζητάτε.Τα διαθέσιμα δεδομένα του joe@mydomain.com "
+"στον διακομιστή www.yourdomain.com θα αποτύχουν."
 
 #: calendarutils.cpp:103 calendarutils.cpp:120 calendarutils.cpp:168
 #: todomodel.cpp:477
 #, kde-format
 msgid "Calendar"
-msgstr ""
+msgstr "Ημερολόγιο"
 
 #: calendarutils.cpp:108 calendarutils.cpp:120 calendarutils.cpp:170
 #, kde-format
 msgid "Tasks"
-msgstr ""
+msgstr "Εργασίες"
 
 #: calendarutils.cpp:113 calendarutils.cpp:120 calendarutils.cpp:172
 #, kde-format
 msgid "Journal"
-msgstr ""
+msgstr "Περιοδικό"
 
 #: calendarutils.cpp:118 calendarutils.cpp:120 calendarutils.cpp:174
 #, kde-format
 msgid "Notes"
-msgstr ""
+msgstr "Σημειώσεις"
 
 #: calendarutils.cpp:133
 #, kde-format
 msgctxt "%1 is folder contents"
 msgid "My Kolab %1"
-msgstr ""
+msgstr "Το Kolab μου %1"
 
 #: calendarutils.cpp:136
 #, kde-format
 msgctxt "%1 is folder name, %2 is folder contents"
 msgid "Shared Kolab %1 %2"
-msgstr ""
+msgstr "Κοινόχρηστο Kolab %1 %2"
 
 #: calendarutils.cpp:139
 #, kde-format
 msgctxt "%1 is folder owner name, %2 is folder contents"
 msgid "%1's Kolab %2"
-msgstr ""
+msgstr "Το Kolab %1 του %2"
 
 #: calendarutils.cpp:141
 #, kde-format
 msgctxt "%1 is folder owner name, %2 is folder name, %3 is folder contents"
 msgid "%1's %2 Kolab %3"
-msgstr ""
+msgstr "%1's %2 Kolab %3"
 
 #: calendarutils.cpp:145
 #, kde-format
 msgctxt "%1 is folder contents"
 msgid "Kolab %1"
-msgstr ""
+msgstr "Kolab %1"
 
 #: calendarutils.cpp:152
 #, kde-format
 msgctxt "%1 is the folder name"
 msgid "%1 in %2"
-msgstr ""
+msgstr "%1 σε %2"
 
 #: calendarutils.cpp:185
 #, kde-format
 msgctxt "%1 is folder owner name, %2 is folder contents"
 msgid "%1's Google %2"
-msgstr ""
+msgstr "Google %2 %1"
 
 #: calendarutils.cpp:187
 #, kde-format
 msgctxt "%1 is folder owner name, %2 is folder name"
 msgid "%1's %2"
-msgstr ""
+msgstr "%1's %2"
 
 #: calendarutils.cpp:190
 #, kde-format
 msgctxt "%1 is folder contents"
 msgid "Google %1"
-msgstr ""
+msgstr "Google %1"
 
 #: calendarutils.cpp:198
 #, kde-format
 msgid "My %1"
-msgstr ""
+msgstr "Το %1 μου"
 
 #: calendarutils.cpp:202
 #, kde-format
 msgctxt "unknown resource"
 msgid "Unknown"
-msgstr ""
+msgstr "Άγνωστος"
 
 #: freebusymanager.cpp:380
 #, kde-format
@@ -410,17 +439,21 @@ msgid ""
 "Failed to download free/busy data from: %1\n"
 "Reason: %2"
 msgstr ""
+"Αποτυχία λήψης δεδομένων διαθεσιμότητας από: %1\n"
+"Αιτιολογία: %2"
 
 #: freebusymanager.cpp:381 freebusymanager.cpp:404
 #, kde-format
 msgctxt "@title:window"
 msgid "Free/Busy Retrieval Error"
-msgstr ""
+msgstr "Σφάλμα Ανάκτησης Διαθεσιμότητας"
 
 #: freebusymanager.cpp:403
 #, kde-format
 msgid "Failed to parse free/busy information that was retrieved from: %1"
 msgstr ""
+"Αποτυχία ανάλυσης των πληροφοριών διαθεσιμότητας που ανακτήθηκαν "
+"από: %1"
 
 #: freebusymanager.cpp:418
 #, kde-format
@@ -430,22 +463,27 @@ msgid ""
 "incorrect URL. The system said: <em>%2</em>.</p><p>Please check the URL or "
 "contact your system administrator.</p></qt>"
 msgstr ""
+"<qt><p>Το λογισμικό δεν μπόρεσε να μεταφορτώσει τη λίστα διαθεσιμότητας στη δι"
+"εύθυνση URL '%1'. Μπορεί να υπάρχει πρόβλημα με τα δικαιώματα πρόσβασης ή να έ"
+"χετε καθορίσει λανθασμένη διεύθυνση URL. Το σύστημα είπε: <em>%2</em>.</p><p>Ε"
+"λέγξτε τη διεύθυνση URL ή επικοινωνήστε με το διαχειριστή του συστήματός σας.<"
+"/p></qt>"
 
 #: freebusymanager.cpp:619
 #, kde-format
 msgid "The free/busy information was successfully sent."
-msgstr ""
+msgstr "Οι πληροφορίες διαθεσιμότητας στάλθηκαν με επιτυχία."
 
 #: freebusymanager.cpp:620 itiphandler_p.cpp:136
 #, kde-format
 msgctxt "@title:window"
 msgid "Sending Free/Busy"
-msgstr ""
+msgstr "Αποστολή Διαθεσιμότητας "
 
 #: freebusymanager.cpp:623
 #, kde-format
 msgid "Unable to publish the free/busy data: %1"
-msgstr ""
+msgstr "Αδυναμία δημοσίευσης των δεδομένων διαθεσιμότητας: %1"
 
 #: freebusymanager.cpp:747
 #, kde-format
@@ -454,6 +492,11 @@ msgid ""
 "KOrganizer's configuration dialog, on the \"Free/Busy\" page.</p><p>Contact "
 "your system administrator for the exact URL and the account details.</p></qt>"
 msgstr ""
+"<qt><p>Δεν έχει ρυθμιστεί η διεύθυνση URL για το ανέβασμα της λίστας "
+"διαθεσιμότητας. Παρακαλούμε ρυθμίστε την στο παράθυρο διαλόγου "
+"ρυθμίσεων του KOrganizer, στη σελίδα \"Ελεύθεροι/Απασχολημένοι\". "
+"</p><p>Επικοινωνήστε με το διαχειριστή του συστήματός σας για την ακριβή "
+"διεύθυνση URL και τα στοιχεία του λογαριασμού.</p></qt>"
 
 #: freebusymanager.cpp:752
 #, kde-format
