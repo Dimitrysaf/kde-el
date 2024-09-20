@@ -1,0 +1,65 @@
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-08-28 00:45+0000\n"
+"PO-Revision-Date: 2024-09-20 22:02+0300\n"
+"Last-Translator: Δημήτρης Μηλιάτης <demetresmeliates+i18n@gmail.com>\n"
+"Language-Team: Greek <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 24.08.0\n"
+
+#: src/lokalize.notifyrc:4
+msgctxt "Comment"
+msgid "Computer-aided translation system"
+msgstr "Σύστημα μετάφρασης με τη βοήθεια υπολογιστή"
+
+#: src/lokalize.notifyrc:62 src/org.kde.lokalize.desktop:2
+msgctxt "Name"
+msgid "Lokalize"
+msgstr "Lokalize"
+
+#: src/lokalize.notifyrc:126
+msgctxt "Name"
+msgid "Error opening files"
+msgstr "Σφάλμα ανοίγματος αρχείων"
+
+#: src/lokalize.notifyrc:186
+msgctxt "Name"
+msgid "Error opening files for synchronization"
+msgstr "Σφάλμα ανοίγματος αρχείων για συγχρονισμό"
+
+#: src/lokalize.notifyrc:244
+msgctxt "Name"
+msgid "No Qt Sql modules were found"
+msgstr "Δεν βρέθηκαν ενότητες Qt Sql"
+
+#: src/lokalize.notifyrc:303
+msgctxt "Name"
+msgid "Scanning folders with source files..."
+msgstr "Σάρωση φακέλων με αρχεία προέλευσης..."
+
+#: src/lokalize.notifyrc:356
+msgctxt "Name"
+msgid "Batch Translation Completed"
+msgstr "Μετάφραση Παρτίδας Ολοκληρώθηκε"
+
+#: src/lokalize.notifyrc:397
+msgctxt "Name"
+msgid "Batch Translation Scheduled"
+msgstr "Προγραμματισμένη Μετάφραση Παρτίδας"
+
+#: src/org.kde.lokalize.desktop:72
+msgctxt "GenericName"
+msgid "Computer-Aided Translation System"
+msgstr "Σύστημα Μετάφρασης με τη Βοήθεια Υπολογιστή"
+
