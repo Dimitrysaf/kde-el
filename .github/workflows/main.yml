@@ -57,4 +57,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: localization-package
-        path: $HOME/artifacts/localization-package.tar.gz
+        path: ~/artifacts/localization-package.tar.gz
