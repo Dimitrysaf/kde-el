@@ -39,7 +39,7 @@ jobs:
           for po_file in $(find . -name "*.po"); do
             echo "Processing $po_file"
             mo_file="../build/$(basename "$po_file" .po).mo"
-            msgfmt "$po_file" -o "$mo_file"
+            msgfmt "$po_file" -v -o "$mo_file"
           done
         else
           echo "No .po files found in messages directory or its subdirectories."
