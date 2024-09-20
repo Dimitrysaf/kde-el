@@ -50,8 +50,8 @@ jobs:
       run: |
         cd build
         tar -czf localization-package.tar.gz *.mo
-        mkdir -p $HOME/artifacts
-        mv localization-package.tar.gz $HOME/artifacts/
+        mkdir -p ~/artifacts
+        mv localization-package.tar.gz ~/artifacts/
       
     - name: Upload localization package
       uses: actions/upload-artifact@v3
