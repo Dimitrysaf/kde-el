@@ -37,13 +37,109 @@
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
 # SPDX-FileCopyrightText: 2024 Δημήτρης Μηλιάτης <demetresmeliates+i18n@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: akonadi-calendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-01 00:41+0000\n"
-"PO-Revision-Date: 2024-09-20 18:10+0300\n"
+"PO-Revision-Date: 2024-09-20 21:38+0300\n"
 "Last-Translator: Δημήτρης Μηλιάτης <demetresmeliates+i18n@gmail.com>\n"
 "Language-Team: Greek <kde-i18n-doc@kde.org>\n"
 "Language: en_US\n"
@@ -502,76 +598,76 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "No Free/Busy Upload URL"
-msgstr ""
+msgstr "Δεν Υπάρχει Διαθεσιμότητα URL Mεταφόρτωσης"
 
 #: freebusymanager.cpp:762
 #, kde-format
 msgid "<qt>The target URL '%1' provided is invalid.</qt>"
-msgstr ""
+msgstr "<qt>Το URL-στόχος '%1' που δόθηκε είναι άκυρο.</qt>"
 
 #: freebusymanager.cpp:763
 #, kde-format
 msgctxt "@title:window"
 msgid "Invalid URL"
-msgstr ""
+msgstr "Άκυρο URL"
 
 #: history_p.cpp:71
 #, kde-format
 msgid "General error"
-msgstr ""
+msgstr "Γενικό σφάλμα"
 
 #: history_p.cpp:82
 #, kde-format
 msgctxt "%1 is event, todo or journal"
 msgid "%1 creation"
-msgstr ""
+msgstr "%1 δημιουργία"
 
 #: history_p.cpp:150
 #, kde-format
 msgctxt "%1 is event, todo or journal"
 msgid "%1 deletion"
-msgstr ""
+msgstr "%1 διαγραφή"
 
 #: history_p.cpp:232
 #, kde-format
 msgctxt "%1 is event, todo or journal"
 msgid "%1 modification"
-msgstr ""
+msgstr "%1 τροποποίηση"
 
 #: icalimporter.cpp:83
 #, kde-format
 msgid "Error creating ical resource: %1"
-msgstr ""
+msgstr "Σφάλμα δημιουργίας τεχνικού πόρου: %1"
 
 #: icalimporter.cpp:93
 #, kde-format
 msgid "Failed to obtain D-Bus interface for remote configuration."
-msgstr ""
+msgstr "Αποτυχία λήψης διεπαφής D-Δίαυλου για απομακρυσμένη διαμόρφωση."
 
 #: icalimporter.cpp:118
 #, kde-format
 msgid "Could not download remote file."
-msgstr ""
+msgstr "Αδυναμία λήψης απομακρυσμένου αρχείου."
 
 #: icalimporter.cpp:141 icalimporter.cpp:162
 #, kde-format
 msgid "An import task is already in progress."
-msgstr ""
+msgstr "Μια εργασία εισαγωγής βρίσκεται ήδη σε εξέλιξη."
 
 #: icalimporter.cpp:167
 #, kde-format
 msgid "Empty filename. Will not import ical file."
-msgstr ""
+msgstr "Κενό όνομα αρχείου. Δεν θα εισαγάγει ical αρχείο."
 
 #: icalimporter.cpp:172
 #, kde-format
 msgid "Url to import is malformed."
-msgstr ""
+msgstr "Η διεύθυνση URL για την εισαγωγή είναι κακοσχηματισμένη."
 
 #: icalimporter.cpp:179
 #, kde-format
 msgid "The selected file is not a readable file."
-msgstr ""
+msgstr "Το επιλεγμένο αρχείο δεν είναι αναγνώσιμο."
 
 #: icalimporter.cpp:187
 #, kde-format
@@ -579,52 +675,62 @@ msgid ""
 "The selected file is not properly formatted, or in a format not supported by "
 "this software."
 msgstr ""
+"Το επιλεγμένο αρχείο δεν έχει διαμορφωθεί σωστά ή είναι σε μορφή που δεν "
+"υποστηρίζεται από αυτό το λογισμικό."
 
 #: icalimporter.cpp:195
 #, kde-format
 msgid "The selected file is empty."
-msgstr ""
+msgstr "Το επιλεγμένο αρχείο είναι κενό."
 
 #: icalimporter.cpp:213
 #, kde-format
 msgid "Merge ical file into existing calendar."
-msgstr ""
+msgstr "Συγχώνευση ical αρχείου σε υπάρχον ημερολόγιο."
 
 #: incidencechanger.cpp:260
 #, kde-format
 msgid "Error while trying to create calendar item. Error was: %1"
 msgstr ""
+"Σφάλμα κατά την προσπάθεια δημιουργίας στοιχείου ημερολογίου. Το σφάλμα "
+"ήταν: %1"
 
 #: incidencechanger.cpp:339
 #, kde-format
 msgid "Error while trying to delete calendar item. Error was: %1"
 msgstr ""
+"Σφάλμα κατά την προσπάθεια διαγραφής στοιχείου ημερολογίου. "
+"Το σφάλμα ήταν: %1"
 
 #: incidencechanger.cpp:374
 #, kde-format
 msgctxt "errormessage for a job ended with an unexpected result"
 msgid "An unknown error occurred"
-msgstr ""
+msgstr "Εμφανίστηκε ένα άγνωστο σφάλμα"
 
 #: incidencechanger.cpp:411
 #, kde-format
 msgid "Error while trying to modify calendar item. Error was: %1"
 msgstr ""
+"Σφάλμα κατά την προσπάθεια τροποποίησης στοιχείου ημερολογίου. "
+"Το σφάλμα ήταν: %1"
 
 #: incidencechanger.cpp:805 incidencechanger.cpp:929
 #, kde-format
 msgid "That calendar item was already deleted, or currently being deleted."
 msgstr ""
+"Αυτό το στοιχείο ημερολογίου έχει ήδη διαγραφεί ή διαγράφεται επί του παρόντος"
+"."
 
 #: incidencechanger.cpp:1195
 #, kde-format
 msgid "Operation can not be performed due to ACL restrictions"
-msgstr ""
+msgstr "Η λειτουργία δεν μπορεί να εκτελεστεί λόγω περιορισμών ACL"
 
 #: incidencechanger.cpp:1198
 #, kde-format
 msgid "The chosen collection is invalid"
-msgstr ""
+msgstr "Η επιλεγμένη συλλογή είναι άκυρη"
 
 #: incidencechanger.cpp:1202
 #, kde-format
@@ -632,11 +738,14 @@ msgid ""
 "Default collection is invalid or doesn't have proper ACLs and "
 "DestinationPolicyNeverAsk was used"
 msgstr ""
+"Η προεπιλεγμένη συλλογή είναι άκυρη ή δεν έχει τις κατάλληλες ACL και "
+"χρησιμοποιήθηκε η Πολιτική Προορισμού Ποτέ μην Ρωτάς "
+"(DestinationPolicyNeverAsk)"
 
 #: incidencechanger.cpp:1206
 #, kde-format
 msgid "Duplicate item id in a group operation"
-msgstr ""
+msgstr "Διπλό ID στοιχείου σε λειτουργία ομάδας"
 
 #: incidencechanger.cpp:1210
 #, kde-format
@@ -644,86 +753,91 @@ msgid ""
 "One change belonging to a group of changes failed. All changes are being "
 "rolled back."
 msgstr ""
+"Μια αλλαγή που ανήκει σε μια ομάδα αλλαγών απέτυχε. Όλες οι αλλαγές "
+"ανακαλούνται."
 
 #: incidencechanger.cpp:1215
 #, kde-format
 msgid "Unknown error"
-msgstr ""
+msgstr "Άγνωστο σφάλμα"
 
 #: itiphandler.cpp:110
 #, kde-format
 msgid "Error loading calendar."
-msgstr ""
+msgstr "Σφάλμα φόρτωσης ημερολογίου."
 
 #: itiphandler.cpp:118
 #, kde-format
 msgid "Error message: %1"
-msgstr ""
+msgstr "Μήνυμα σφάλματος: %1"
 
 #: itiphandler.cpp:119
 #, kde-format
 msgid "Unknown error while parsing iCal invitation"
-msgstr ""
+msgstr "Άγνωστο σφάλμα κατά την ανάλυση της πρόσκλησης iCal"
 
 #: itiphandler.cpp:125
 #, kde-format
 msgid "Error while processing an invitation or update."
-msgstr ""
+msgstr "Σφάλμα κατά την επεξεργασία μιας πρόσκλησης ή ενημέρωσης."
 
 #: itiphandler.cpp:142
 #, kde-format
 msgid "Invalid incidence"
-msgstr ""
+msgstr "Άκυρη συχνότητα εμφάνισης"
 
 #: itiphandler.cpp:209
 #, kde-format
 msgid "Invalid action: %1"
-msgstr ""
+msgstr "Άκυρη ενέργεια: %1"
 
 #: itiphandler.cpp:232
 #, kde-format
 msgid "Error sending counter proposal"
-msgstr ""
+msgstr "Σφάλμα αποστολής πρότασης μετρητή"
 
 #: itiphandler.cpp:239
 #, kde-format
 msgid "Could not start editor to edit counter proposal"
 msgstr ""
+"Αδυναμία εκκίνησης του επεξεργαστή για την επεξεργασία της αντιπρότασης"
 
 #: itiphandler.cpp:270
 #, kde-format
 msgid ""
 "The item '%1' has no attendees. Therefore no groupware message will be sent."
 msgstr ""
+"Το στοιχείο '%1' δεν έχει συμμετέχοντες. Επομένως, δεν θα σταλεί κανένα "
+"μήνυμα groupware."
 
 #: itiphandler.cpp:273
 #, kde-format
 msgctxt "@title:window"
 msgid "Message Not Sent"
-msgstr ""
+msgstr "Μήνυμα Δεν Εστάλη"
 
 #: itiphandler.h:102 itiphandler.h:120 itiphandler.h:136 itiphandler.h:149
 #, kde-format
 msgctxt "@action:button dialog positive answer"
 msgid "Send Email"
-msgstr ""
+msgstr "Αποστολή Email"
 
 #: itiphandler.h:103 itiphandler.h:121 itiphandler.h:137 itiphandler.h:150
 #, kde-format
 msgctxt "@action:button dialog negative answer"
 msgid "Do Not Send"
-msgstr ""
+msgstr "Να Μην Σταλθεί"
 
 #: itiphandler_p.cpp:59 itiphandler_p.cpp:61 itiphandler_p.cpp:115
 #: itiphandlerhelper_p.cpp:510
 #, kde-format
 msgid "Error: %1"
-msgstr ""
+msgstr "Σφάλμα: %1"
 
 #: itiphandler_p.cpp:81
 #, kde-format
 msgid "Error loading calendar: %1"
-msgstr ""
+msgstr "Σφάλμα φόρτωσης ημερολογίου: %1"
 
 #: itiphandler_p.cpp:132
 #, kde-format
@@ -731,6 +845,8 @@ msgid ""
 "The groupware message for item '%1' was successfully sent.\n"
 "Method: %2"
 msgstr ""
+"Το μήνυμα groupware για το στοιχείο '%1' στάλθηκε με επιτυχία.\n"
+"Μέθοδος: %2"
 
 #: itiphandler_p.cpp:144
 #, kde-format
@@ -740,55 +856,57 @@ msgid ""
 "Unable to send the item '%1'.\n"
 "Method: %2"
 msgstr ""
+"Αδυναμία αποστολής του στοιχείου '%1'.\n"
+"Μέθοδος: %2"
 
 #: itiphandler_p.cpp:160 itiphandler_p.cpp:180
 #, kde-format
 msgid "The item information was successfully sent."
-msgstr ""
+msgstr "Οι πληροφορίες του στοιχείου εστάλησαν με επιτυχία."
 
 #: itiphandler_p.cpp:161
 #, kde-format
 msgctxt "@title:window"
 msgid "Publishing"
-msgstr ""
+msgstr "Δημοσίευση"
 
 #: itiphandler_p.cpp:166
 #, kde-format
 msgid "Unable to publish the item '%1'"
-msgstr ""
+msgstr "Αδυναμία δημοσίευσης του στοιχείου '%1'"
 
 #: itiphandler_p.cpp:181
 #, kde-format
 msgctxt "@title:window"
 msgid "Forwarding"
-msgstr ""
+msgstr "Προώθηση"
 
 #: itiphandler_p.cpp:188
 #, kde-format
 msgid "Unable to forward the item '%1'"
-msgstr ""
+msgstr "Αδυναμία προώθησης του στοιχείου '%1'"
 
 #: itiphandler_p.cpp:189
 #, kde-format
 msgctxt "@title:window"
 msgid "Forwarding Error"
-msgstr ""
+msgstr "Σφάλμα Προώθησης"
 
 #: itiphandlerhelper_p.cpp:37
 #, kde-format
 msgid "Proposed new meeting time: %1 - %2"
-msgstr ""
+msgstr "Προτεινόμενη νέα ώρα συνάντησης: %1 - %2"
 
 #: itiphandlerhelper_p.cpp:69
 #, kde-format
 msgctxt "@title:window"
 msgid "Group Scheduling Email"
-msgstr ""
+msgstr "Email Προγραμματισμού Ομάδας"
 
 #: itiphandlerhelper_p.cpp:146
 #, kde-kuit-format
 msgid "<placeholder>No summary given</placeholder>"
-msgstr ""
+msgstr "<placeholder>Δεν δίνεται περίληψη</placeholder>"
 
 #: itiphandlerhelper_p.cpp:237
 #, kde-format
@@ -796,6 +914,8 @@ msgid ""
 "The event \"%1\" includes other people.\n"
 "Do you want to email the invitation to the attendees?"
 msgstr ""
+"Το συμβάν \"%1\" περιλαμβάνει και άλλα άτομα.\n"
+"Θέλετε να στείλετε την πρόσκληση με email στους συμμετέχοντες;"
 
 #: itiphandlerhelper_p.cpp:242
 #, kde-format
@@ -803,6 +923,8 @@ msgid ""
 "The todo \"%1\" includes other people.\n"
 "Do you want to email the invitation to the attendees?"
 msgstr ""
+"Η εργασία \"%1\" περιλαμβάνει και άλλα άτομα.\n"
+"Θέλετε να στείλετε την πρόσκληση με email στους συμμετέχοντες;"
 
 #: itiphandlerhelper_p.cpp:247
 #, kde-format
@@ -810,6 +932,8 @@ msgid ""
 "This incidence includes other people. Should an email be sent to the "
 "attendees?"
 msgstr ""
+"Αυτό το περιστατικό περιλαμβάνει και άλλους ανθρώπους. Θα πρέπει "
+"να σταλεί ένα μήνυμα email στους παρευρισκόμενους;"
 
 #: itiphandlerhelper_p.cpp:271
 #, kde-format
@@ -817,6 +941,9 @@ msgid ""
 "You are not the organizer of this event. Editing it will bring your calendar "
 "out of sync with the organizer's calendar. Do you really want to edit it?"
 msgstr ""
+"Δεν είστε ο διοργανωτής αυτής της εκδήλωσης. Η επεξεργασία του θα αποσύρει "
+"το ημερολόγιό σας από τον συγχρονισμό με το ημερολόγιο του διοργανωτή. "
+"Θέλετε πραγματικά να το επεξεργαστείτε;"
 
 #: itiphandlerhelper_p.cpp:304
 #, kde-format
@@ -824,18 +951,22 @@ msgid ""
 "You changed the invitation \"%1\".\n"
 "Do you want to email the attendees an update message?"
 msgstr ""
+"Αλλάξατε την πρόσκληση \"%1\".\n"
+"Θέλετε να στείλετε στους συμμετέχοντες ένα μήνυμα ενημέρωσης με email;"
 
 #: itiphandlerhelper_p.cpp:312 itiphandlerhelper_p.cpp:333
 #: itiphandlerhelper_p.cpp:346
 #, kde-format
 msgctxt "@action:button"
 msgid "Send Update"
-msgstr ""
+msgstr "Αποστολή Ενημέρωσης"
 
 #: itiphandlerhelper_p.cpp:327 itiphandlerhelper_p.cpp:411
 #, kde-format
 msgid "Do you want to send a status update to the organizer of this task?"
 msgstr ""
+"Θέλετε να στείλετε μια ενημέρωση κατάστασης στον διοργανωτή αυτής της εργασίας"
+";"
 
 #: itiphandlerhelper_p.cpp:339
 #, kde-format
@@ -843,6 +974,8 @@ msgid ""
 "Your status as an attendee of this event changed. Do you want to send a "
 "status update to the event organizer?"
 msgstr ""
+"Η ιδιότητά σας ως συμμετέχων σε αυτή την εκδήλωση άλλαξε. Θέλετε να "
+"στείλετε μια ενημέρωση κατάστασης στον διοργανωτή της εκδήλωσης;"
 
 #: itiphandlerhelper_p.cpp:382
 #, kde-format
@@ -850,6 +983,8 @@ msgid ""
 "You removed the invitation \"%1\".\n"
 "Do you want to email the attendees that the event is canceled?"
 msgstr ""
+"Αφαιρέσατε την πρόσκληση \"%1\".\n"
+"Θέλετε να στείλετε email στους συμμετέχοντες ότι η εκδήλωση ακυρώθηκε;"
 
 #: itiphandlerhelper_p.cpp:387
 #, kde-format
@@ -857,6 +992,8 @@ msgid ""
 "You removed the invitation \"%1\".\n"
 "Do you want to email the attendees that the todo is canceled?"
 msgstr ""
+"Αφαιρέσατε την πρόσκληση \"%1\".\n"
+"Θέλετε να στείλετε email στους συμμετέχοντες ότι το todo ακυρώθηκε;"
 
 #: itiphandlerhelper_p.cpp:392
 #, kde-format
@@ -864,17 +1001,20 @@ msgid ""
 "You removed the invitation \"%1\".\n"
 "Do you want to email the attendees that the journal is canceled?"
 msgstr ""
+"Αφαιρέσατε την πρόσκληση \"%1\".\n"
+"Θέλετε να στείλετε email στους συμμετέχοντες ότι το περιοδικό ακυρώθηκε;"
 
 #: itiphandlerhelper_p.cpp:414
 #, kde-format
 msgid "Do you want to send a status update to the organizer of this journal?"
 msgstr ""
+"Θέλετε να στείλετε μια ενημέρωση στον διοργανωτή αυτού του ημερολογίου;"
 
 #: itiphandlerhelper_p.cpp:419 itiphandlerhelper_p.cpp:440
 #, kde-format
 msgctxt "@action:button dialog positive answer"
 msgid "Send Update"
-msgstr ""
+msgstr "Αποστολή Ενημέρωσης"
 
 #: itiphandlerhelper_p.cpp:434
 #, kde-format
@@ -882,52 +1022,55 @@ msgid ""
 "You had previously accepted an invitation to this event. Do you want to send "
 "an updated response to the organizer declining the invitation?"
 msgstr ""
+"Είχατε προηγουμένως αποδεχθεί πρόσκληση για την εκδήλωση αυτή. Θέλετε να "
+"στείλετε μια ενημερωμένη απάντηση στον διοργανωτή που να απορρίπτει την "
+"πρόσκληση;"
 
 #: itiphandlerhelper_p.cpp:478 mailscheduler_p.cpp:124
 #, kde-format
 msgid "Counter proposal: %1"
-msgstr ""
+msgstr "Πρόταση μετρητή: %1"
 
 #: itiphandlerhelper_p.cpp:495
 #, kde-format
 msgid "Sending group scheduling email failed."
-msgstr ""
+msgstr "Η αποστολή email προγραμματισμού ομάδας απέτυχε."
 
 #: itiphandlerhelper_p.cpp:503
 #, kde-format
 msgctxt "@action:button dialog positive answer to abort question"
 msgid "Abort Update"
-msgstr ""
+msgstr "Ματαίωση Ενημέρωσης"
 
 #: mailclient_p.cpp:377 mailclient_p.cpp:415
 #, kde-format
 msgid "There are no attendees to e-mail"
-msgstr ""
+msgstr "Δεν υπάρχουν συμμετέχοντες στο e-mail"
 
 #: mailclient_p.cpp:424
 #, kde-format
 msgid "Free Busy Object"
-msgstr ""
+msgstr "Αντικείμενο Διαθεσιμότητας"
 
 #: mailclient_p.cpp:458 mailclient_p.cpp:489
 #, kde-format
 msgid "Free Busy Message"
-msgstr ""
+msgstr "Μήνυμα Διαθεσιμότητας"
 
 #: mailclient_p.cpp:629
 #, kde-format
 msgid "Error while creating transport"
-msgstr ""
+msgstr "Σφάλμα κατά τη δημιουργία μεταφοράς"
 
 #: mailclient_p.cpp:647
 #, kde-format
 msgid "Error fetching transport. Unable to send invitations"
-msgstr ""
+msgstr "Σφάλμα ανάκτησης μεταφοράς. Αδυναμία αποστολής προσκλήσεων"
 
 #: mailclient_p.cpp:669
 #, kde-format
 msgid "Error queuing message in outbox: %1"
-msgstr ""
+msgstr "Σφάλμα στην ουρά αναμονής μηνυμάτων στα εξερχόμενα: %1"
 
 #: mailclient_p.cpp:701
 #, kde-format
@@ -936,23 +1079,26 @@ msgid ""
 "whether or not to sign this message.\n"
 "Sign this message?"
 msgstr ""
+"Από την εξέταση των προτιμήσεων υπογραφής του παραλήπτη προέκυψε ότι σας "
+"ζητήθηκε να υπογράψετε ή όχι αυτό το μήνυμα.\n"
+"Να υπογράψω αυτό το μήνυμα;"
 
 #: mailclient_p.cpp:706 mailclient_p.cpp:732
 #, kde-format
 msgid "Sign Message?"
-msgstr ""
+msgstr "Υπογραφή Μηνύματος;"
 
 #: mailclient_p.cpp:707 mailclient_p.cpp:733
 #, kde-format
 msgctxt "to sign"
 msgid "&Sign"
-msgstr ""
+msgstr "&Υπογραφή"
 
 #: mailclient_p.cpp:708 mailclient_p.cpp:734
 #, kde-format
 msgctxt "@action:button"
 msgid "Do &Not Sign"
-msgstr ""
+msgstr "&Να Μην Υπογραφεί"
 
 #: mailclient_p.cpp:728
 #, kde-format
@@ -960,6 +1106,8 @@ msgid ""
 "There are conflicting signing preferences for these recipients.\n"
 "Sign this message?"
 msgstr ""
+"Υπάρχουν αντικρουόμενες προτιμήσεις υπογραφής για αυτούς τους παραλήπτες.\n"
+"Υπογραφή αυτού του μηνύματος;"
 
 #: mailclient_p.cpp:753
 #, kde-format
@@ -967,18 +1115,20 @@ msgid ""
 "You have requested to sign this message, but no valid signing keys have been "
 "configured for this identity."
 msgstr ""
+"Ζητήσατε να υπογράψετε αυτό το μήνυμα, αλλά δεν έχουν ρυθμιστεί έγκυρα "
+"κλειδιά υπογραφής για αυτή την ταυτότητα."
 
 #: mailclient_p.cpp:756
 #, kde-format
 msgctxt "@title:window"
 msgid "Send Unsigned?"
-msgstr ""
+msgstr "Αποστολή Ανυπόγραφο;"
 
 #: mailclient_p.cpp:756
 #, kde-format
 msgctxt "@action:button"
 msgid "Send &Unsigned"
-msgstr ""
+msgstr "&Αποστολή Αυπόγραφο"
 
 #: mailclient_p.cpp:770
 #, kde-format
@@ -987,6 +1137,10 @@ msgid ""
 "Sending only partially signed messages might violate site policy.\n"
 "Sign all parts instead?"
 msgstr ""
+"Ορισμένα μέρη αυτού του μηνύματος δεν θα υπογραφούν.\n"
+"Η αποστολή μόνο μερικώς υπογεγραμμένων μηνυμάτων ενδέχεται να παραβιάζει "
+"την πολιτική του ιστότοπου.\n"
+"Υπογραφή όλων των τμημάτων;"
 
 #: mailclient_p.cpp:774
 #, kde-format
@@ -995,28 +1149,32 @@ msgid ""
 "Sending unsigned message might violate site policy.\n"
 "Sign message instead?"
 msgstr ""
+"Αυτό το μήνυμα δεν θα υπογραφεί.\n"
+"Η αποστολή μη υπογεγραμμένου μηνύματος ενδέχεται να παραβιάζει την πολιτική το"
+"υ ιστότοπου.\n"
+"Υπογραφή μηνύματος τελικά;"
 
 #: mailclient_p.cpp:777
 #, kde-format
 msgid "&Sign All Parts"
-msgstr ""
+msgstr "Υπογραφή Όλα τα &Τμήματα"
 
 #: mailclient_p.cpp:777
 #, kde-format
 msgid "&Sign"
-msgstr ""
+msgstr "&Υπογραφή"
 
 #: mailclient_p.cpp:779
 #, kde-format
 msgctxt "@title:window"
 msgid "Unsigned-Message Warning"
-msgstr ""
+msgstr "Προειδοποίηση Ανυπόγραφου Μηνύματος"
 
 #: mailclient_p.cpp:781
 #, kde-format
 msgctxt "@action:button"
 msgid "Send &As Is"
-msgstr ""
+msgstr "Α&ποστολή ως Έχει"
 
 #: mailclient_p.cpp:834
 #, kde-format
@@ -1024,6 +1182,8 @@ msgid ""
 "Valid trusted encryption keys were found for all recipients.\n"
 "Encrypt this message?"
 msgstr ""
+"Βρέθηκαν έγκυρα αξιόπιστα κλειδιά κρυπτογράφησης για όλους τους παραλήπτες.\n"
+"Κρυπτογράφηση αυτού του μηνύματος;"
 
 #: mailclient_p.cpp:837
 #, kde-format
@@ -1032,32 +1192,35 @@ msgid ""
 "asked whether or not to encrypt this message.\n"
 "Encrypt this message?"
 msgstr ""
+"Από την εξέταση των προτιμήσεων κρυπτογράφησης του παραλήπτη "
+"προέκυψε ότι σας ζητήθηκε να κρυπτογραφήσετε ή όχι αυτό το μήνυμα.\n"
+"Κρυπτογράφηση αυτού του μηνύματος;"
 
 #: mailclient_p.cpp:842
 #, kde-format
 msgctxt "@title:window"
 msgid "Encrypt Message?"
-msgstr ""
+msgstr "Κρυπτογράφηση Μηνύματος;"
 
 #: mailclient_p.cpp:843
 #, kde-format
 msgid "Sign && &Encrypt"
-msgstr ""
+msgstr "Υπογραφή και &Κρυπτογράφηση"
 
 #: mailclient_p.cpp:843 mailclient_p.cpp:916
 #, kde-format
 msgid "&Encrypt"
-msgstr ""
+msgstr "&Κρυπτογράφηση"
 
 #: mailclient_p.cpp:844 mailclient_p.cpp:920
 #, kde-format
 msgid "&Sign Only"
-msgstr ""
+msgstr "&Μόνο Υπογραφή"
 
 #: mailclient_p.cpp:844 mailclient_p.cpp:920
 #, kde-format
 msgid "&Send As-Is"
-msgstr ""
+msgstr "&Αποστολή ως Έχει"
 
 #: mailclient_p.cpp:864
 #, kde-format
@@ -1065,23 +1228,26 @@ msgid ""
 "There are conflicting encryption preferences for these recipients.\n"
 "Encrypt this message?"
 msgstr ""
+"Υπάρχουν αντικρουόμενες προτιμήσεις κρυπτογράφησης για αυτούς "
+"τους παραλήπτες.\n"
+"Κρυπτογράφηση αυτού του μηνύματος;"
 
 #: mailclient_p.cpp:868
 #, kde-format
 msgid "Encrypt Message?"
-msgstr ""
+msgstr "Κρυπτογράφηση Μηνύματος;"
 
 #: mailclient_p.cpp:869
 #, kde-format
 msgctxt "@action:button"
 msgid "&Encrypt"
-msgstr ""
+msgstr "&Κρυπτογράφηση"
 
 #: mailclient_p.cpp:870
 #, kde-format
 msgctxt "@action:button"
 msgid "Do &Not Encrypt"
-msgstr ""
+msgstr "Να &Μην Κρυπτογραφήσει"
 
 #: mailclient_p.cpp:889
 #, kde-format
@@ -1090,17 +1256,20 @@ msgid ""
 "yourself, but no valid trusted encryption keys have been configured for this "
 "identity."
 msgstr ""
+"Ζητήσατε να κρυπτογραφήσετε αυτό το μήνυμα και να κρυπτογραφήσετε ένα "
+"αντίγραφο για τον εαυτό σας, αλλά δεν έχουν ρυθμιστεί έγκυρα κλειδιά "
+"κρυπτογράφησης για αυτή την ταυτότητα."
 
 #: mailclient_p.cpp:893
 #, kde-format
 msgid "Send Unencrypted?"
-msgstr ""
+msgstr "Αποστολή Χωρίς Κρυπτογράφηση;"
 
 #: mailclient_p.cpp:893
 #, kde-format
 msgctxt "@action:button"
 msgid "Send &Unencrypted"
-msgstr ""
+msgstr "Αποστολή &Χωρίς Κρυπτογράφηση"
 
 #: mailclient_p.cpp:907
 #, kde-format
@@ -1110,6 +1279,10 @@ msgid ""
 "leak sensitive information.\n"
 "Encrypt all parts instead?"
 msgstr ""
+"Ορισμένα τμήματα αυτού του μηνύματος δεν θα κρυπτογραφηθούν.\n"
+"Η αποστολή μόνο μερικώς κρυπτογραφημένων μηνυμάτων ενδέχεται να παραβιάσει "
+"την πολιτική του ιστότοπου ή/και να διαρρεύσουν ευαίσθητες πληροφορίες.\n"
+"Κρυπτογράφηση όλων των τμημάτων;"
 
 #: mailclient_p.cpp:912
 #, kde-format
@@ -1119,33 +1292,37 @@ msgid ""
 "information.\n"
 "Encrypt messages instead?"
 msgstr ""
+"Αυτό το μήνυμα δεν θα κρυπτογραφηθεί.\n"
+"Η αποστολή μη κρυπτογραφημένων μηνυμάτων ενδέχεται να παραβιάσει την "
+"πολιτική του ιστότοπου ή/και να διαρρεύσουν ευαίσθητες πληροφορίες.\n"
+"Κρυπτογράφηση μηνυμάτων τελικά;"
 
 #: mailclient_p.cpp:916
 #, kde-format
 msgid "&Encrypt All Parts"
-msgstr ""
+msgstr "&Κρυπτογράφηση Όλων των Τμημάτων"
 
 #: mailclient_p.cpp:918
 #, kde-format
 msgid "Unencrypted Message Warning"
-msgstr ""
+msgstr "Προειδοποίηση μη Κρυπτογραφημένου Μηνύματος"
 
 #: mailscheduler_p.cpp:199
 #, kde-format
 msgid "Error sending e-mail: "
-msgstr ""
+msgstr "Σφάλμα αποστολής e-mail: "
 
 #: publishdialog.cpp:34
 #, kde-format
 msgctxt "@title:window"
 msgid "Select Addresses"
-msgstr ""
+msgstr "Επιλογή Διευθύνσεων"
 
 #: publishdialog.cpp:61
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Send email to these recipients"
-msgstr ""
+msgstr "Στείλτε email σε αυτούς τους παραλήπτες"
 
 #: publishdialog.cpp:63
 #, kde-format
@@ -1153,12 +1330,14 @@ msgid ""
 "Clicking the <b>Ok</b> button will cause an email to be sent to the "
 "recipients you have entered."
 msgstr ""
+"Κάνοντας κλικ στο κουμπί <b>Εντάξει</b> θα αποσταλεί ένα μήνυμα email στους "
+"παραλήπτες που έχετε εισάγει."
 
 #: publishdialog.cpp:68
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Cancel recipient selection and the email"
-msgstr ""
+msgstr "Ακύρωση της επιλογής παραλήπτη και του email"
 
 #: publishdialog.cpp:70
 #, kde-format
@@ -1166,12 +1345,17 @@ msgid ""
 "Clicking the <b>Cancel</b> button will cause the email operation to be "
 "terminated."
 msgstr ""
+"Κάνοντας κλικ στο κουμπί <b>Ακύρωση</b> τερματίζεται η διαδικασία "
+"αποστολής email."
 
 #: publishdialog.cpp:75
 #, kde-format
 msgid ""
 "Click the <b>Help</b> button to read more information about Group Scheduling."
 msgstr ""
+"Κάντε κλικ στο κουμπί <b>Βοήθεια</b> για να διαβάσετε περισσότερες πληροφορίες"
+" "
+"σχετικά με τον Ομαδικό Προγραμματισμό."
 
 #: publishdialog.cpp:123
 #, kde-format
@@ -1180,18 +1364,21 @@ msgid ""
 "string.\n"
 "%1"
 msgstr ""
+"Αδύνατη η δημοσίευση του περιστατικού ημερολογίου λόγω μη έγκυρης "
+"συμβολοσειράς παραληπτών.\n"
+"%1"
 
 #: publishdialog.cpp:126
 #, kde-format
 msgctxt "@title:window"
 msgid "Publishing Error"
-msgstr ""
+msgstr "Σφάλμα Δημοσίευσης"
 
 #. i18n: ectx: property (toolTip), widget (QListWidget, mListWidget)
 #: publishdialog_base.ui:38
 #, kde-format
 msgid "The list of addressees to receive the invitation"
-msgstr ""
+msgstr "Ο κατάλογος των παραληπτών που θα λάβουν την πρόσκληση"
 
 #. i18n: ectx: property (whatsThis), widget (QListWidget, mListWidget)
 #: publishdialog_base.ui:41
@@ -1200,12 +1387,14 @@ msgid ""
 "This is a list of all the addresses you have currently selected to receive "
 "the iCalendar invitation."
 msgstr ""
+"Πρόκειται για μια λίστα με όλες τις διευθύνσεις που έχετε επιλέξει επί του "
+"παρόντος να λαμβάνουν την πρόσκληση iCalendar."
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, mNew)
 #: publishdialog_base.ui:52
 #, kde-format
 msgid "Create a new recipient"
-msgstr ""
+msgstr "Δημιουργία νέου παραλήπτη"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, mNew)
 #: publishdialog_base.ui:55
@@ -1214,18 +1403,20 @@ msgid ""
 "Click this button and you will be able to enter a name and email for a new "
 "addressee to add to the recipients list"
 msgstr ""
+"Κάντε κλικ σε αυτό το κουμπί και θα μπορείτε να εισαγάγετε το όνομα και "
+"το email ενός νέου παραλήπτη για να τον προσθέσετε στη λίστα παραληπτών."
 
 #. i18n: ectx: property (text), widget (QPushButton, mNew)
 #: publishdialog_base.ui:58
 #, kde-format
 msgid "&New"
-msgstr ""
+msgstr "&Νέο"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, mRemove)
 #: publishdialog_base.ui:65
 #, kde-format
 msgid "Remove the recipient currently selected"
-msgstr ""
+msgstr "Αφαίρεση του επιλεγμένου παραλήπτη"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, mRemove)
 #: publishdialog_base.ui:68
@@ -1233,18 +1424,20 @@ msgstr ""
 msgid ""
 "Click this button to remove the recipient currently selected from the list"
 msgstr ""
+"Κάντε κλικ σε αυτό το κουμπί για να αφαιρέσετε τον τρέχοντα επιλεγμένο "
+"παραλήπτη από τη λίστα."
 
 #. i18n: ectx: property (text), widget (QPushButton, mRemove)
 #: publishdialog_base.ui:71
 #, kde-format
 msgid "&Remove"
-msgstr ""
+msgstr "&Αφαίρεση"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, mSelectAddressee)
 #: publishdialog_base.ui:78
 #, kde-format
 msgid "Select a recipient from your address book"
-msgstr ""
+msgstr "Επιλέξτε έναν παραλήπτη από το βιβλίο διευθύνσεών σας"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, mSelectAddressee)
 #: publishdialog_base.ui:81
@@ -1253,77 +1446,81 @@ msgid ""
 "Click this button to show another dialog where you will be able to select a "
 "recipient from your address book"
 msgstr ""
+"Κάντε κλικ σε αυτό το κουμπί για να εμφανιστεί ένας άλλος διάλογος όπου "
+"θα μπορείτε να επιλέξετε έναν παραλήπτη από το βιβλίο διευθύνσεών σας."
 
 #. i18n: ectx: property (text), widget (QPushButton, mSelectAddressee)
 #: publishdialog_base.ui:84
 #, kde-format
 msgid "&Select…"
-msgstr ""
+msgstr "&Επιλογή..."
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel1)
 #: publishdialog_base.ui:113
 #, kde-format
 msgctxt "recipient name"
 msgid "Name:"
-msgstr ""
+msgstr "Όνομα:"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, mNameLineEdit)
 #: publishdialog_base.ui:123
 #, kde-format
 msgid "The recipient's name"
-msgstr ""
+msgstr "Το όνομα του παραλήπτη"
 
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, mNameLineEdit)
 #: publishdialog_base.ui:126
 #, kde-format
 msgid "This field contains the name of the recipient"
-msgstr ""
+msgstr "Αυτό το πεδίο περιέχει το όνομα του παραλήπτη"
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel2)
 #: publishdialog_base.ui:136
 #, kde-format
 msgctxt "recipient email"
 msgid "E&mail:"
-msgstr ""
+msgstr "E&mail:"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, mEmailLineEdit)
 #: publishdialog_base.ui:146
 #, kde-format
 msgid "The recipient's email address"
-msgstr ""
+msgstr "Η διεύθυνση email του παραλήπτη"
 
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, mEmailLineEdit)
 #: publishdialog_base.ui:149
 #, kde-format
 msgid "This field contains the email address of the recipient"
-msgstr ""
+msgstr "Αυτό το πεδίο περιέχει τη διεύθυνση email του παραλήπτη"
 
 #: publishdialog_p.cpp:44
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "(EmptyName)"
-msgstr ""
+msgstr "(ΚενόΌνομα)"
 
 #: publishdialog_p.cpp:45
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "(EmptyEmail)"
-msgstr ""
+msgstr "(ΚενόEmail)"
 
 #: scheduler_p.cpp:132 scheduler_p.cpp:239
 #, kde-format
 msgid "Error: Assigning different incidence types."
-msgstr ""
+msgstr "Σφάλμα: Αντιστοίχιση διαφορετικών τύπων περιστατικών."
 
 #: scheduler_p.cpp:223 scheduler_p.cpp:272
 #, kde-format
 msgid "This isn't an update. The found incidence was modified more recently."
 msgstr ""
+"Αυτό δεν είναι ενημέρωση. Το περιστατικό που βρέθηκε τροποποιήθηκε πιο "
+"πρόσφατα."
 
 #: scheduler_p.cpp:263 scheduler_p.cpp:534 scheduler_p.cpp:549
 #, kde-format
 msgid "Error modifying incidence"
-msgstr ""
+msgstr "Σφάλμα τροποποίησης της συχνότητας εμφάνισης"
 
 #: scheduler_p.cpp:288
 #, kde-kuit-format
@@ -1338,27 +1535,36 @@ msgid ""
 "invitation</item></list></para><para>This is not a problem, but we thought "
 "you should know.</para>"
 msgstr ""
+"<para>Προσθέσατε μια ενημέρωση πρόσκλησης, αλλά μια προηγούμενη "
+"έκδοση του στοιχείου δεν μπορούσε να βρεθεί στο ημερολόγιό σας.</para> <para>Α"
+"υτό μπορεί να συνέβη επειδή:<list><item>ο διοργανωτής δεν σας "
+"συμπεριέλαβε στην αρχική πρόσκληση</item><item>δεν αποδεχθήκατε "
+"ακόμη την αρχική πρόσκληση</item><item>διαγράψατε την αρχική "
+"πρόσκληση από το ημερολόγιό σας</item><item>δεν έχετε πλέον "
+"πρόσβαση στο ημερολόγιο που περιέχει την πρόσκληση</item></list></para> <para>"
+"Αυτό δεν αποτελεί πρόβλημα, αλλά σκεφτήκαμε ότι πρέπει να "
+"το γνωρίζετε.</para>"
 
 #: scheduler_p.cpp:297
 #, kde-format
 msgctxt "@title:window"
 msgid "Cannot Find Invitation to be Updated"
-msgstr ""
+msgstr "Αδυναμία Εύρεσης Πρόσκλησης για Ενημέρωση"
 
 #: scheduler_p.cpp:304
 #, kde-format
 msgid "Error adding incidence"
-msgstr ""
+msgstr "Σφάλμα προσθήκης περιστατικών"
 
 #: scheduler_p.cpp:338
 #, kde-format
 msgid "Could not find incidence to delete."
-msgstr ""
+msgstr "Αδυναμία εύρεσης περιστατικών προς διαγραφή."
 
 #: scheduler_p.cpp:391
 #, kde-format
 msgid "Error recording exception"
-msgstr ""
+msgstr "Εξαίρεση καταγραφής σφάλματος"
 
 #: scheduler_p.cpp:408
 #, kde-format
@@ -1368,48 +1574,51 @@ msgid ""
 "already been deleted or is not owned by you. Or it might belong to a read-"
 "only or disabled calendar."
 msgstr ""
+"Η εκδήλωση ή η εργασία δεν μπόρεσε να αφαιρεθεί από το ημερολόγιό σας. "
+"Ίσως έχει ήδη διαγραφεί ή δεν σας ανήκει. Ή μπορεί να ανήκει σε ημερολόγιο "
+"με δικαίωμα μόνο ανάγνωσης ή ανενεργό."
 
 #: scheduler_p.cpp:418 scheduler_p.cpp:433 scheduler_p.cpp:568
 #: scheduler_p.cpp:574
 #, kde-format
 msgid "Generic Error"
-msgstr ""
+msgstr "Γενικό Σφάλμα"
 
 #: scheduler_p.cpp:476
 #, kde-format
 msgctxt "@info"
 msgid "%1 wants to attend %2 but was not invited."
-msgstr ""
+msgstr "%1 θέλει να παρευρεθεί στο %2 αλλά δεν προσκλήθηκε."
 
 #: scheduler_p.cpp:478
 #, kde-format
 msgctxt "@info"
 msgid "%1 wants to attend %2 on behalf of %3."
-msgstr ""
+msgstr "%1 θέλει να παρευρεθεί στον %2 εκ μέρους του %3."
 
 #: scheduler_p.cpp:482
 #, kde-format
 msgctxt "@title:window"
 msgid "Uninvited Attendee"
-msgstr ""
+msgstr "Απρόσκλητος Συμμετέχων"
 
 #: scheduler_p.cpp:483
 #, kde-format
 msgctxt "@option"
 msgid "Accept Attendance"
-msgstr ""
+msgstr "Αποδοχή Συμμετοχής"
 
 #: scheduler_p.cpp:484
 #, kde-format
 msgctxt "@option"
 msgid "Reject Attendance"
-msgstr ""
+msgstr "Απόρριψη Συμμετοχής"
 
 #: scheduler_p.cpp:487
 #, kde-format
 msgctxt "@info"
 msgid "The organizer rejected your attendance at this meeting."
-msgstr ""
+msgstr "Ο διοργανωτής απέρριψε τη συμμετοχή σας σε αυτή τη συνάντηση."
 
 #: scheduler_p.cpp:508
 #, kde-format
@@ -1418,102 +1627,106 @@ msgid ""
 "An attendee was added to the incidence. Do you want to email the attendees "
 "an update message?"
 msgstr ""
+"Ένας συμμετέχων προστέθηκε στα περιστατικά. Θέλετε να στείλετε στους "
+"συμμετέχοντες ένα μήνυμα ενημέρωσης με email;"
 
 #: scheduler_p.cpp:510
 #, kde-format
 msgctxt "@title:window"
 msgid "Attendee Added"
-msgstr ""
+msgstr "Συμμετέχων Προστέθηκε"
 
 #: scheduler_p.cpp:511
 #, kde-format
 msgctxt "@option"
 msgid "Send Messages"
-msgstr ""
+msgstr "Αποστολή Μηνυμάτων"
 
 #: scheduler_p.cpp:512
 #, kde-format
 msgctxt "@option"
 msgid "Do Not Send"
-msgstr ""
+msgstr "Μην Σταλθεί"
 
 #: scheduler_p.cpp:558
 #, kde-format
 msgid "No incidence for scheduling."
-msgstr ""
+msgstr "Δεν υπάρχουν περιστατικά για τον προγραμματισμό."
 
 #: scheduler_p.cpp:581
 #, kde-format
 msgid "No Free Busy Cache"
-msgstr ""
+msgstr "Χωρίς Κρυφή Μνήμη Διαθεσιμότητας"
 
 #: scheduler_p.cpp:600
 #, kde-format
 msgid "Error saving freebusy object"
-msgstr ""
+msgstr "Σφάλμα αποθήκευσης αντικειμένου διαθεσιμότητας"
 
 #: searchcollectionhelper.cpp:179
 #, kde-format
 msgctxt "A collection of all declined invidations."
 msgid "Declined Invitations"
-msgstr ""
+msgstr "Απορριμμένες Προσκλήσεις"
 
 #: searchcollectionhelper.cpp:187
 #, kde-format
 msgctxt "A collection of all open invidations."
 msgid "Open Invitations"
-msgstr ""
+msgstr "Ανοιχτές Προσκλήσεις"
 
 #: standardcalendaractionmanager.cpp:46
 #, kde-format
 msgid "Add Folder…"
-msgstr ""
+msgstr "Προσθήκη Φακέλου..."
 
 #: standardcalendaractionmanager.cpp:48
 #, kde-format
 msgid "Add a new calendar folder to the currently selected calendar folder."
 msgstr ""
+"Προσθήκη ενός νέου φακέλου ημερολογίου στον τρέχοντα επιλεγμένο φάκελο "
+"ημερολογίου."
 
 #: standardcalendaractionmanager.cpp:49
 #, kde-format
 msgctxt "@title:window"
 msgid "New Folder"
-msgstr ""
+msgstr "Νέος Φάκελος"
 
 #: standardcalendaractionmanager.cpp:53
 #, kde-format
 msgid "Could not create calendar folder: %1"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η δημιουργία φακέλου ημερολογίου: %1"
 
 #: standardcalendaractionmanager.cpp:57
 #, kde-format
 msgctxt "@title:window"
 msgid "Calendar Folder Creation Failed"
-msgstr ""
+msgstr "Αποτυχία Δημιουργίας Φακέλου Ημερολογίου"
 
 #: standardcalendaractionmanager.cpp:66
 #, kde-format
 msgid "Copy Folder"
 msgid_plural "Copy %1 Folders"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Αντιγραφή Φακέλου"
+msgstr[1] "Αντιγραφή %1 Φακέλων"
 
 #: standardcalendaractionmanager.cpp:68
 #, kde-format
 msgid "Copy the selected calendar folders to the clipboard."
-msgstr ""
+msgstr "Αντιγραφή των επιλεγμένων φακέλων ημερολογίου στο πρόχειρο."
 
 #: standardcalendaractionmanager.cpp:71
 #, kde-format
 msgid "Delete Folder"
 msgid_plural "Delete %1 Folders"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Διαγραφή Φακέλου"
+msgstr[1] "Διαγραφή %1 Φακέλων"
 
 #: standardcalendaractionmanager.cpp:73
 #, kde-format
 msgid "Delete the selected calendar folders from the calendar."
-msgstr ""
+msgstr "Διαγραφή των επιλεγμένων φακέλων ημερολογίου από το ημερολόγιο."
 
 #: standardcalendaractionmanager.cpp:76
 #, kde-format
@@ -1522,7 +1735,11 @@ msgid ""
 msgid_plural ""
 "Do you really want to delete %1 calendar folders and all their sub-folders?"
 msgstr[0] ""
+"Θέλετε πραγματικά να διαγράψετε αυτόν τον φάκελο ημερολογίου και "
+"όλους τους υποφακέλους του;"
 msgstr[1] ""
+"Θέλετε πραγματικά να διαγράψετε τους φακέλους ημερολογίου %1 και "
+"όλους τους υποφακέλους τους;"
 
 #: standardcalendaractionmanager.cpp:81
 #, kde-format
