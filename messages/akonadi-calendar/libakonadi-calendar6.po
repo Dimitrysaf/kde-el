@@ -133,13 +133,14 @@
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
 # SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
 # SPDX-FileCopyrightText: 2024 Δημήτρης Μηλιάτης <demetresmeliates+i18n@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: akonadi-calendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-01 00:41+0000\n"
-"PO-Revision-Date: 2024-09-20 21:38+0300\n"
+"PO-Revision-Date: 2024-09-20 21:40+0300\n"
 "Last-Translator: Δημήτρης Μηλιάτης <demetresmeliates+i18n@gmail.com>\n"
 "Language-Team: Greek <kde-i18n-doc@kde.org>\n"
 "Language: en_US\n"
@@ -1746,8 +1747,8 @@ msgstr[1] ""
 msgctxt "@title:window"
 msgid "Delete Calendar Folder?"
 msgid_plural "Delete Calendar Folders?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Διαγραφή Φακέλου Ημερολογίου;"
+msgstr[1] "Διαγραφή Φακέλων Ημερολογίου;"
 
 #: standardcalendaractionmanager.cpp:85
 #, kde-format
