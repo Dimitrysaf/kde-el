@@ -35,14 +35,14 @@ jobs:
       run: |
         mkdir -p build
         cd messages
-        if ls *.po 1> /dev/null 2>&1; then
-          for po_file in *.po; do
+        if find . -name "*.po" | wc -l > 0; then
+          for po_file in $(find . -name "*.po"); do
             echo "Processing $po_file"
             mo_file="../build/$(basename "$po_file" .po).mo"
             msgfmt "$po_file" -o "$mo_file"
           done
         else
-          echo "No .po files found in messages directory."
+          echo "No .po files found in messages directory or its subdirectories."
           exit 1
         fi
 
