@@ -1,0 +1,126 @@
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+# SPDX-FileCopyrightText: 2024 SPDX-FileCopyrightText :
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-08-02 00:46+0000\n"
+"PO-Revision-Date: 2024-09-21 09:04+0300\n"
+"Last-Translator: Δημήτρης Μηλιάτης <demetresmeliates+i18n@gmail.com>\n"
+"Language-Team: Greek <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 24.08.0\n"
+
+#: src/bluedevil.notifyrc:3 src/kio/bluetooth/bluetooth-network.desktop:3
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: src/bluedevil.notifyrc:58
+msgctxt "Comment"
+msgid "Bluetooth system"
+msgstr "Σύστημα Bluetooth"
+
+#: src/bluedevil.notifyrc:115
+msgctxt "Name"
+msgid "Authorization Requested"
+msgstr "Αιτούμενη Εξουσιοδότηση"
+
+#: src/bluedevil.notifyrc:169
+msgctxt "Comment"
+msgid "A device wants to connect"
+msgstr "Μια συσκευή θέλει να συνδεθεί"
+
+#: src/bluedevil.notifyrc:229
+msgctxt "Name"
+msgid "Confirm PIN"
+msgstr "Επιβεβαίωση PIN"
+
+#: src/bluedevil.notifyrc:284
+msgctxt "Comment"
+msgid "Confirm a device request using matching PINs"
+msgstr "Επιβεβαίωση ενός αιτήματος συσκευής με χρήση αντίστοιχων κωδικών PIN"
+
+#: src/bluedevil.notifyrc:343
+msgctxt "Name"
+msgid "Request PIN"
+msgstr "Αίτημα PIN"
+
+#: src/bluedevil.notifyrc:397
+msgctxt "Comment"
+msgid "A PIN is needed"
+msgstr "Απαιτείται PIN"
+
+#: src/bluedevil.notifyrc:457
+msgctxt "Name"
+msgid "Incoming File"
+msgstr "Εισερχόμενο Αρχείο"
+
+#: src/bluedevil.notifyrc:513
+msgctxt "Comment"
+msgid "Incoming file transfer"
+msgstr "Μεταφορά εισερχόμενου αρχείου"
+
+#: src/bluedevil.notifyrc:572
+msgctxt "Name"
+msgid "Connection Failed"
+msgstr "Αποτυχία Σύνδεσης"
+
+#: src/bluedevil.notifyrc:626
+msgctxt "Comment"
+msgid "Connection to device failed"
+msgstr "Αποτυχία σύνδεσης με τη συσκευή"
+
+#: src/bluedevil.notifyrc:685
+msgctxt "Name"
+msgid "Device Setup Finished"
+msgstr "Ρύθμιση Συσκευής Ολοκληρώθηκε"
+
+#: src/bluedevil.notifyrc:731
+msgctxt "Comment"
+msgid "Setting up a Bluetooth device finished successfully"
+msgstr "Η ρύθμιση μιας συσκευής Bluetooth ολοκληρώθηκε με επιτυχία"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:2
+msgctxt "Name"
+msgid "Bluetooth File Transfer"
+msgstr "Μεταφορά Αρχείων Bluetooth"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:47
+msgctxt "GenericName"
+msgid "Bluetooth File Transfer"
+msgstr "Μεταφορά Αρχείων Bluetooth"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:91
+msgctxt "Comment"
+msgid "Send files via Bluetooth"
+msgstr "Αποστολή αρχείων μέσω Bluetooth"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:2
+msgctxt "Name"
+msgid "Add Bluetooth Device"
+msgstr "Προσθήκη Συσκευής Bluetooth"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:46
+msgctxt "GenericName"
+msgid "Add Bluetooth Device"
+msgstr "Προσθήκη Συσκευής Bluetooth"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:90
+msgctxt "Comment"
+msgid "Add Bluetooth Device"
+msgstr "Προσθήκη Συσκευής Bluetooth"
+
